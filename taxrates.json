@@ -1,0 +1,257 @@
+{
+  "AL": {
+    "code": "AL",
+    "name": "Alabama",
+    "rate": 0.091
+  },
+  "AK": {
+    "code": "AK",
+    "name": "Alaska",
+    "rate": 0.0176
+  },
+  "AZ": {
+    "code": "AZ",
+    "name": "Arizona",
+    "rate": 0.0833
+  },
+  "AR": {
+    "code": "AR",
+    "name": "Arkansas",
+    "rate": 0.0941
+  },
+  "CA": {
+    "code": "CA",
+    "name": "California",
+    "rate": 0.0854
+  },
+  "CO": {
+    "code": "CO",
+    "name": "Colorado",
+    "rate": 0.0752
+  },
+  "CT": {
+    "code": "CT",
+    "name": "Connecticut",
+    "rate": 0.0635
+  },
+  "DE": {
+    "code": "DE",
+    "name": "Delaware",
+    "rate": 0
+  },
+  "FL": {
+    "code": "FL",
+    "name": "Florida",
+    "rate": 0.068
+  },
+  "GA": {
+    "code": "GA",
+    "name": "Georgia",
+    "rate": 0.0715
+  },
+  "HI": {
+    "code": "HI",
+    "name": "Hawaii",
+    "rate": 0.0435
+  },
+  "ID": {
+    "code": "ID",
+    "name": "Idaho",
+    "rate": 0.0603
+  },
+  "IL": {
+    "code": "IL",
+    "name": "Illinois",
+    "rate": 0.087
+  },
+  "IN": {
+    "code": "IN",
+    "name": "Indiana",
+    "rate": 0.07
+  },
+  "IA": {
+    "code": "IA",
+    "name": "Iowa",
+    "rate": 0.068
+  },
+  "KS": {
+    "code": "KS",
+    "name": "Kansas",
+    "rate": 0.0868
+  },
+  "KY": {
+    "code": "KY",
+    "name": "Kentucky",
+    "rate": 0.06
+  },
+  "LA": {
+    "code": "LA",
+    "name": "Louisiana",
+    "rate": 0.1002
+  },
+  "ME": {
+    "code": "ME",
+    "name": "Maine",
+    "rate": 0.055
+  },
+  "MD": {
+    "code": "MD",
+    "name": "Maryland",
+    "rate": 0.06
+  },
+  "MA": {
+    "code": "MA",
+    "name": "Massachusetts",
+    "rate": 0.0625
+  },
+  "MI": {
+    "code": "MI",
+    "name": "Michigan",
+    "rate": 0.06
+  },
+  "MN": {
+    "code": "MN",
+    "name": "Minnesota",
+    "rate": 0.0742
+  },
+  "MS": {
+    "code": "MS",
+    "name": "Mississippi",
+    "rate": 0.0707
+  },
+  "MO": {
+    "code": "MO",
+    "name": "Missouri",
+    "rate": 0.0803
+  },
+  "MT": {
+    "code": "MT",
+    "name": "Montana",
+    "rate": 0
+  },
+  "NE": {
+    "code": "NE",
+    "name": "Nebraska",
+    "rate": 0.0689
+  },
+  "NV": {
+    "code": "NV",
+    "name": "Nevada",
+    "rate": 0.0814
+  },
+  "NH": {
+    "code": "NH",
+    "name": "New Hampshire",
+    "rate": 0
+  },
+  "NJ": {
+    "code": "NJ",
+    "name": "New Jersey",
+    "rate": 0.066
+  },
+  "NM": {
+    "code": "NM",
+    "name": "New Mexico",
+    "rate": 0.0766
+  },
+  "NY": {
+    "code": "NY",
+    "name": "New York",
+    "rate": 0.0849
+  },
+  "NC": {
+    "code": "NC",
+    "name": "North Carolina",
+    "rate": 0.0695
+  },
+  "ND": {
+    "code": "ND",
+    "name": "North Dakota",
+    "rate": 0.068
+  },
+  "OH": {
+    "code": "OH",
+    "name": "Ohio",
+    "rate": 0.0715
+  },
+  "OK": {
+    "code": "OK",
+    "name": "Oklahoma",
+    "rate": 0.0891
+  },
+  "OR": {
+    "code": "OR",
+    "name": "Oregon",
+    "rate": 0
+  },
+  "PA": {
+    "code": "PA",
+    "name": "Pennsylvania",
+    "rate": 0.0634
+  },
+  "RI": {
+    "code": "RI",
+    "name": "Rhode Island",
+    "rate": 0.07
+  },
+  "SC": {
+    "code": "SC",
+    "name": "South Carolina",
+    "rate": 0.0737
+  },
+  "SD": {
+    "code": "SD",
+    "name": "South Dakota",
+    "rate": 0.064
+  },
+  "TN": {
+    "code": "TN",
+    "name": "Tennessee",
+    "rate": 0.0946
+  },
+  "TX": {
+    "code": "TX",
+    "name": "Texas",
+    "rate": 0.0817
+  },
+  "UT": {
+    "code": "UT",
+    "name": "Utah",
+    "rate": 0.0677
+  },
+  "VT": {
+    "code": "VT",
+    "name": "Vermont",
+    "rate": 0.0618
+  },
+  "VA": {
+    "code": "VA",
+    "name": "Virginia",
+    "rate": 0.0563
+  },
+  "WA": {
+    "code": "WA",
+    "name": "Washington",
+    "rate": 0.0918
+  },
+  "WV": {
+    "code": "WV",
+    "name": "West Virginia",
+    "rate": 0.0637
+  },
+  "WI": {
+    "code": "WI",
+    "name": "Wisconsin",
+    "rate": 0.0542
+  },
+  "WY": {
+    "code": "WY",
+    "name": "Wyoming",
+    "rate": 0.0546
+  },
+  "DC": {
+    "code": "DC",
+    "name": "Dist. of Columbia",
+    "rate": 0.0575
+  }
+}
